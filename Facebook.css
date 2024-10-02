@@ -1,0 +1,58 @@
+body{
+    background-color: grey;
+  }
+  h1{
+    color: blue;  
+    text-align: center;
+    font-weight: bold;
+  }
+  .one{
+      width:35vw;
+      height:65vh ;
+      background-color: #fff;
+      margin-left: 31rem;
+      border-radius: 10px;
+  }
+  p{
+      padding-top: 20px;
+      text-align: center;
+  }
+  .two{
+      margin-left: 2rem;
+      background-color: #fff;
+  }
+  input{
+      border-radius: 5px;
+  }
+  .three{
+    margin-left: 32px;
+    background-color: #fff;
+  }
+  input{
+    border-radius: 5px;
+  }
+  .spacing{
+    margin: 0;
+  }
+  .button{
+    color: white;
+    text-align: center;
+    background-color: blue;
+    width: 30.5vw;
+  height: 6vh;
+    margin-right:5px ;
+    border-radius: 5px;
+  }
+  .four{
+    margin-left: 225px;
+  }
+  .button2{
+    color: white;
+    text-align: center;
+    background-color:green;
+    width: 20vw;
+  height: 6vh;
+    margin-left:0.5rem;
+    border-radius: 5px;
+  }
+  
