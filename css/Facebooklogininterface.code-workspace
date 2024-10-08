@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Facebooklogininterface",
+			"path": ".."
+		},
+		{
+			"name": "css",
+			"path": "../../Downloads/facebook-clone-master/css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Facebooklogininterface"
+	}
+}
